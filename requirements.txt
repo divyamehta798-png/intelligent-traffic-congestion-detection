@@ -3,5 +3,3 @@ opencv-python
 streamlit
 pandas
 matplotlib
-imageio
-imageio-ffmpeg
