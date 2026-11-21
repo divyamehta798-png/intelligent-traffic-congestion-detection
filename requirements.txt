@@ -1,5 +1,7 @@
 ultralytics
-opencv-python
+opencv-python-headless
 streamlit
 pandas
 matplotlib
+imageio
+imageio-ffmpeg
